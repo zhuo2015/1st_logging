@@ -1,0 +1,36 @@
+2017-01-04 19:04:11,046 test_log1.py[line:14] INFO log_pre_definded
+2017-01-04 19:04:11,046 test_log1.py[line:18] INFO 3
+2017-01-04 19:04:11,046 test_log1.py[line:18] INFO 2
+2017-01-04 19:04:11,046 test_log1.py[line:18] INFO 1
+2017-01-04 19:04:11,047 test_log1.py[line:18] INFO 0
+2017-01-04 19:04:11,047 test_log1.py[line:30] ERROR logg_excep: 
+Traceback (most recent call last):
+  File "/Users/Lizhuo/py_log/test_log1.py", line 26, in <module>
+    test_l()
+  File "/Users/Lizhuo/py_log/test_log1.py", line 19, in test_l
+    y = a / i
+ZeroDivisionError: division by zero
+2017-01-04 19:05:11,277 test_log1.py[line:14] INFO log_pre_definded
+2017-01-04 19:05:11,278 test_log1.py[line:18] INFO 3
+2017-01-04 19:05:11,278 test_log1.py[line:18] INFO 2
+2017-01-04 19:05:11,278 test_log1.py[line:18] INFO 1
+2017-01-04 19:05:11,278 test_log1.py[line:18] INFO 0
+2017-01-04 19:05:11,278 test_log1.py[line:30] ERROR logg_excep: 
+Traceback (most recent call last):
+  File "/Users/Lizhuo/py_log/test_log1.py", line 26, in <module>
+    test_l()
+  File "/Users/Lizhuo/py_log/test_log1.py", line 19, in test_l
+    y = a / i
+ZeroDivisionError: division by zero
+2017-01-04 19:05:25,889 test_log1.py[line:14] INFO log_pre_definded
+2017-01-04 19:05:25,890 test_log1.py[line:18] INFO 3
+2017-01-04 19:05:25,890 test_log1.py[line:18] INFO 2
+2017-01-04 19:05:25,890 test_log1.py[line:18] INFO 1
+2017-01-04 19:05:25,890 test_log1.py[line:18] INFO 0
+2017-01-04 19:05:25,890 test_log1.py[line:30] ERROR logg_excep: 
+Traceback (most recent call last):
+  File "/Users/Lizhuo/py_log/test_log1.py", line 26, in <module>
+    test_l()
+  File "/Users/Lizhuo/py_log/test_log1.py", line 19, in test_l
+    y = a / i
+ZeroDivisionError: division by zero
