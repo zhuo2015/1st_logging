@@ -4,4 +4,5 @@ The function will do:
     2. log the start info
     3. log the trigger info
     4. log the end info
+
 All this info will attached a timestamp.
